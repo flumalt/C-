@@ -1,2 +1,2 @@
-# C-
+# C++
 Testing C++ codes
